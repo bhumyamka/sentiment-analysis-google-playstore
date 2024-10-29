@@ -32,7 +32,7 @@ A Python-based sentiment analysis tool for Google Play Store reviews. This proje
 1. Clone the repository:
    ```bash
    git clone https://github.com/bhumyamka/sentiment-analysis-google-playstore.git
-   cd playstore-sentiment-analysis
+   cd sentiment-analysis-google-playstore
    ```
 
 2. Install required packages:
